@@ -4,6 +4,7 @@
   "compilerOptions": {
     "allowJs": false,
     "baseUrl": "src",
+    "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "jsx": "react",
